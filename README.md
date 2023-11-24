@@ -1,5 +1,16 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Overview
+This app was build using react native for View the Gifs using Giphy
+
+##Features
+-Can share on whatsapp
+-Able to download
+-Search 
+-Play and Pause
+-Infinite scroll
+-Change theme(Dark and light)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
